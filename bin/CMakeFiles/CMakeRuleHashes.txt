@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+03672cd7f13504f1bced3631d5a5a02a CMakeFiles/MousePositioner_autogen

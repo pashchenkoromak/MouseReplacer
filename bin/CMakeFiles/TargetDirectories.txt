@@ -1,0 +1,4 @@
+/home/user/MouseReplacer/bin/CMakeFiles/rebuild_cache.dir
+/home/user/MouseReplacer/bin/CMakeFiles/MousePositioner.dir
+/home/user/MouseReplacer/bin/CMakeFiles/edit_cache.dir
+/home/user/MouseReplacer/bin/CMakeFiles/MousePositioner_autogen.dir
